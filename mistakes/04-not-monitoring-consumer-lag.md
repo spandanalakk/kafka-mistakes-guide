@@ -1,6 +1,6 @@
 # 📝 Mistake #4 — Not Monitoring Consumer Lag (Until It’s Too Late)
 
-![Consumer Lag Alert](../images/kafka-consumer-lag.png)
+![Consumer Lag Alert](../Images/kafka-consumer-lag.png)
 
 Consumer lag is one of the **most important health metrics** in a Kafka-based architecture — yet many teams ignore it until problems are visible to users.
 
