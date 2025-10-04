@@ -1,6 +1,6 @@
 # 📝 Mistake #3 — Too Many Kafka Partitions Doesn’t Equal More Performance
 
-![Too Many Partitions](../images/kafka-too-many-partitions.png)
+![Too Many Partitions](../Images/kafka-too-many-partitions.png)
 
 Kafka allows you to split topics into partitions, enabling parallelism and scalability.  
 But many teams mistakenly assume:  
