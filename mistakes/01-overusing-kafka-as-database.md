@@ -1,6 +1,5 @@
 # 📝 Mistake #1 — Overusing Kafka as a Database
-
-![Kafka Streams](../images/kafka-streams-header.png)
+![streams design](../Images/kafka-streams-header.png)
 
 Apache Kafka is an **event streaming platform**, not a transactional database.  
 Yet one of the most common pitfalls engineers run into is treating Kafka topics as if they were tables you can query at will.
