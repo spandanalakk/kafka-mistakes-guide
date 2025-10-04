@@ -138,7 +138,6 @@ segment.bytes=1073741824 # 1 GB
 ### ✅ Bonus Step 5 (Optional): Checklist for Teams
 
 ```markdown
----
 
 ## 🧰 Checklist for Teams
 
