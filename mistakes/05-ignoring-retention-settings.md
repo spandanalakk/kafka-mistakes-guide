@@ -1,6 +1,6 @@
 # 📝 Mistake #5 — Ignoring Retention Settings (and Losing Data Unexpectedly)
 
-![Kafka Retention Diagram](../images/kafka-retention-settings.png)
+![Kafka Retention Diagram](../Images/kafka-retention-settings.png)
 
 Kafka doesn’t store data forever. If your team doesn’t explicitly configure **retention policies**, you may end up **losing critical messages** — silently.
 
