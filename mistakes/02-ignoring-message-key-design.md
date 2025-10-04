@@ -1,4 +1,5 @@
 # 📝 Mistake #2 — Ignoring Message Key Design
+![Message Key Design](../Images/kafka-message-key-design.png)
 
 In Kafka, every message can have an optional **key**. And that key **matters a lot**.
 
