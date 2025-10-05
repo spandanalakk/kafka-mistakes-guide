@@ -1,4 +1,5 @@
 # Mistake #9 — Not Using Schema Validation
+![Kafka schema validation](../Images/kafka-schema-validation.png)
 
 Schema evolution is powerful, but only if you enforce structure. Skipping schema validation can lead to hard-to-debug issues when downstream systems fail due to unexpected fields, types, or null values.
 
